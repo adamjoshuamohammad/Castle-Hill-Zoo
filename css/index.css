@@ -1,19 +1,15 @@
 @font-face {
-    font-family: 'Kung Fu Panda';
-    src: url('KungFuPanda.woff2') format('woff2'),
-        url('KungFuPanda.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
+    font-family: 'KungFuPanda';
+    src: url('KungFuPandaRegular-xYjV.ttf')
 }
 
 h1 {
-    font-family:  'Kung Fu Panda';
+    font-family:  'KungFuPanda';
     color: #CD113B
 }
 
 body {
-    font-family: 'Kung Fu Panda';
+    font-family: 'KungFuPanda';
     background-color: #FFA900;
     text-align: center;
 }
@@ -25,10 +21,10 @@ body {
     width: 50%;
   }
 
-a {
+  a {
     text-decoration: none;
     color: #52006A;
-    background-color: #CD113B;
+    background-color: #FF7600;
     padding: 10px;
 }
 
