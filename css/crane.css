@@ -1,18 +1,39 @@
+@font-face {
+    font-family: 'Kung Fu Panda';
+    src: url('KungFuPanda.woff2') format('woff2'),
+        url('KungFuPanda.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+h1 {
+    color: #CD113B
+  }
+  
+  h2 {
+    color: #CD113B
+  }
+  
+  h3 {
+    color: #CD113B
+  }
+  
+  #info {
+    color: #52006A
+  }
+
 body {
-    font-family: Courier New;
-    background-color: salmon;
+    font-family: 'Kung Fu Panda';
+    background-color: #FFA900;
     text-align: center;
 }
 
 a {
     text-decoration: none;
-    color: hotpink;
-    background-color: lavender;
+    color: #52006A;
+    background-color: #CD113B;
     padding: 10px;
-}
-
-#description {
-    color: red
 }
 
 .center {
