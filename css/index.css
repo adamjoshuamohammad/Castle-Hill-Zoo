@@ -1,15 +1,13 @@
-@font-face {
-    font-family: 'KungFuPanda';
-    src: url('KungFuPandaRegular-xYjV.ttf')
-}
 
 h1 {
-    font-family:  'KungFuPanda';
+    font-family:  Papyrus, fantasy;
+    text-shadow: 3px 3px 3px #ababab;
+    font-size: 50px;
     color: #CD113B
 }
 
 body {
-    font-family: 'KungFuPanda';
+    font-family: Papyrus, fantasy;
     background-color: #FFA900;
     text-align: center;
 }
